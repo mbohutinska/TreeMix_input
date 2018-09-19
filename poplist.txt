@@ -1,0 +1,5 @@
+OUT
+DIC
+DIF
+DIS
+TET
